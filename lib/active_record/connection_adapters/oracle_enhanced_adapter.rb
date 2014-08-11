@@ -428,7 +428,7 @@ module ActiveRecord
         true
       end
 
-      NUMBER_MAX_PRECISION = 38
+      NUMBER_MAX_PRECISION = 8
 
       #:stopdoc:
       DEFAULT_NLS_PARAMETERS = {
